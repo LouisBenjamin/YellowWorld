@@ -1,6 +1,6 @@
 # YellowWorld
 
-##Team Members:
+## Team Members:
 Louis-Benjamin Durocher
 Felix Morin
 Patricia Nunes 
