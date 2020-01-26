@@ -1,7 +1,9 @@
 # YellowWorld
 
 ##  Purpose:
-To create an augmented reality solar system to educate people of all ages about astronomy
+Create an augmented reality solar system to educate people of all ages about astronomy
+
+## Created in Unity
 
 ## Team Members:
 Louis-Benjamin Durocher  
